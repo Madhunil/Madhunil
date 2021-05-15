@@ -1,8 +1,8 @@
 👋 Hi, I’m @Madhunil
 
-👀 I’m interested in converting Data to Information
+👀 I’m interested in converting Data to Information, which would then be used to obtain Solutions.
 
-🌱 I’m currently learning working on Ancient_Text_analysis_using_LDA
+🌱 I’m currently working on Ancient_Text_analysis_using_LDA
 
 📫 How to reach me pachghare.m@northeastern.edu
 
