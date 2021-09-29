@@ -2,7 +2,7 @@
 
 👀 I’m interested in converting Data to Information, which would then be used to obtain Solutions.
 
-🌱 I’m currently working on Ancient_Text_analysis_using_LDA
+🌱 I’m currently working on Indo-European-language-family-analysis-using-NLP-techniques
 
 [👨‍💻Resume](https://drive.google.com/file/d/1Dylpw4ADrlVy0p4OfulYMVn8U2uhRJBy/view?usp=sharing "Madhunil's Resume")
 
