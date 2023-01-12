@@ -1,6 +1,6 @@
 👋 Hi, I’m @Madhunil
 
-I’m Skilled in Python, GoLang, Java, SQL, Shell script, Machine learning, Networking, Kubernetes, AWS Cloud Tools, Data Science, System Design, Distributed Systems, Git, Asana, and JIRA.
+I’m skilled in Python, GoLang, Java, SQL, Shell script, Machine learning, Networking, Kubernetes, AWS Cloud Tools, Data Science, System Design, Distributed Systems, Git, Asana, and JIRA.
 
 I have worked as a Senior Developer at Standard Chartered GBS for 3 years on projects related to data pipeline design & development, data analysis, and data modeling. Also have experienced the transition of the org from waterfall to agile environment.
 
