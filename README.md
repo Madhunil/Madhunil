@@ -12,7 +12,7 @@ While pursuing my master's I also did a Data Science Coop at Danfoss Inc where m
 Currently, I am working in Amazon AWS, for the EKS side of the Windows Container Technologies Team which comes under the EC2 Org.
 Always willing to innovate new things which can improve the existing technology and system.
 
-🌱 Some of my personal ongoing projects include Indo-European-language-family-analysis-using-NLP-techniques and some data related stuff at AWS.
+🌱 Some of my personal ongoing projects include Indo-European-language-family-analysis-using-NLP-techniques and some cloud computing, K8s and data related stuff at AWS.
 
 [👨‍💻Resume](https://drive.google.com/file/d/1TxyOFPTf7rZ0G32xuaVLYMaLumsxPlHi/view?usp=sharing "Madhunil's Resume")
 
