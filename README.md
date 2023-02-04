@@ -2,9 +2,9 @@
 
 I’m skilled in Python, GoLang, Java, SQL, Shell script, Machine learning, Networking, Kubernetes, AWS Cloud Tools, Data Science, System Design, Distributed Systems, Git, Asana, and JIRA.
 
-I have worked as a Senior Developer at Standard Chartered GBS for 3 years on projects related to data pipeline design & development, data analysis, and data modeling. Also have experienced the transition of the org from waterfall to agile environment.
+I have worked as a Senior Developer at Standard Chartered GBS for 3 years on projects related to data pipeline design & development, data analysis, and data modeling. I have also experienced the transition of the org from waterfall to agile environment.
 
-I am a strong professional with a Master's degree focused in Data Science from Northeastern University Boston and a Bachelor's degree focused on Electronics and Communication from VIT University.
+I am a strong professional with a Master's degree focused in Data Science from Northeastern University Boston and a Bachelor's degree focused on Electronics and Communication Engineering from VIT University.
 
 I like to face new challenges, understand businesses and solve real-time problems. Interested and ready to learn any new technology.
 While pursuing my master's I also did a Data Science Coop at Danfoss Inc where my project focused on predicting delayed orders which resulted in customer satisfaction
